@@ -1,0 +1,16 @@
+.layout {
+  display: flex;
+  flex-direction: row;
+  border-radius: 25px;
+  width: 840px;
+  margin: 40px auto auto;
+  /*background-color:rgb(34, 34, 34);*/
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(212, 212, 212);
+  padding: 10px;
+}
+
+.colmFlex {
+  display: flex;
+  flex-direction: column;
+}

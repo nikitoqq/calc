@@ -1,0 +1,9 @@
+.flexRow{
+    display: flex;
+    justify-content: center;
+}
+
+.double button:first-child {
+  width: 160px;
+  border-radius: 40px;
+}
