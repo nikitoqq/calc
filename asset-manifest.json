@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nikitoqq/calc.git/calc/static/css/main.ca172a81.css",
-    "main.js": "/nikitoqq/calc.git/calc/static/js/main.805ff7ba.js",
-    "index.html": "/nikitoqq/calc.git/calc/index.html",
-    "main.ca172a81.css.map": "/nikitoqq/calc.git/calc/static/css/main.ca172a81.css.map",
-    "main.805ff7ba.js.map": "/nikitoqq/calc.git/calc/static/js/main.805ff7ba.js.map"
+    "main.css": "/calc/static/css/main.ca172a81.css",
+    "main.js": "/calc/static/js/main.805ff7ba.js",
+    "index.html": "/calc/index.html",
+    "main.ca172a81.css.map": "/calc/static/css/main.ca172a81.css.map",
+    "main.805ff7ba.js.map": "/calc/static/js/main.805ff7ba.js.map"
   },
   "entrypoints": [
     "static/css/main.ca172a81.css",
